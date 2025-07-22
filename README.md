@@ -2,6 +2,7 @@
 
 Este projeto é uma recriação fiel da calculadora do Windows 10, desenvolvida com **HTML**, **CSS** e **JavaScript** puro. O objetivo foi praticar conceitos de layout responsivo, lógica de operações matemáticas e interação com o DOM, além de entregar uma experiência visual semelhante à original.
 
+🔗 **Acesse o app online**: [calculadorawin.vercel.app](https://calculadorawin.vercel.app/)
 
 ## 🚀 Funcionalidades
 
